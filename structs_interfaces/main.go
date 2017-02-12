@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/curso/structs_interfaces/structs"
+	"github.com/course-basic-golang/structs_interfaces/structs"
 )
 
 func main() {

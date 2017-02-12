@@ -1,8 +1,6 @@
 package structs
 
-import (
-	"github.com/curso/structs_interfaces/interfaces"
-)
+import "github.com/course-basic-golang/structs_interfaces/interfaces"
 
 type Point struct {
 	X, Y float64

@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/curso/structs_interfaces/structs"
 	"log"
 	"math"
 	"net"
 	"net/http"
 	"net/rpc"
+	"github.com/course-basic-golang/structs_interfaces/structs"
 )
 
 type AnotherCircle structs.Circle

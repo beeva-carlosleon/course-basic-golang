@@ -1,7 +1,7 @@
 package structs
 
 import (
-	"github.com/curso/structs_interfaces/interfaces"
+	"github.com/course-basic-golang/structs_interfaces/interfaces"
 	"math"
 )
 

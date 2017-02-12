@@ -2,8 +2,7 @@ package structs
 
 import (
 	"math"
-
-	"github.com/curso/structs_interfaces/interfaces"
+	"github.com/course-basic-golang/structs_interfaces/interfaces"
 )
 
 type Rectangle struct {
